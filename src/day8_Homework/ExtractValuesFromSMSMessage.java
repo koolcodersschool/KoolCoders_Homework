@@ -2,7 +2,7 @@ package day8_Homework;
 
 public class ExtractValuesFromSMSMessage {
     public static void main(String[] args) {
-        /*
+        /**
 
         Write a program which extracts first name, last name, phone number, message text values from given SMS message
         Given SMS message_1 is: "Sender: [kool coders] From Number<5712202222>, Message: {Hey, kool coders! You are great now! You are going to be even greater!}"
